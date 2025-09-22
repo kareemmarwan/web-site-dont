@@ -1,0 +1,90 @@
+{
+  "hero": {
+    "title": "Save My Family — Help Us Reach Safety",
+    "subtitle": "Our family in Gaza urgently needs your help to survive and find safety. Every donation brings us closer to hope.",
+    "donateButton": "Donate Now",
+    "readStoryButton": "Read Our Story"
+  },
+  "story": {
+    "title": "💔From the Heart of Gaza: A Plea for Safety and Survival",
+   "shortStory": "My name is Kareem, and I’m a Palestinian from Gaza City . Before the war, I worked as a software engineer in the tech market. I’ve lived here since birth with my large family, which includes my retired father (64 years old), my mother—a homemaker who underwent surgery to remove a tumor in 2021—four brothers, and five sisters. We all lived together under one roof and We have 13 children – my sisters' kids – and they are all still young. They live with us in the same place. Life before the war was sometimes difficult, but it was stable. I worked daily, had a laptop, internet access, and the resources to earn a living. But since the war began, everything has changed. We live near the separation fence, and we’ve been forced to flee multiple times in search of safety. Our area was hit with intense bombing—I witnessed three barrel bombs fall, destroying 13 homes and killing several of our neighbors.",
+    "fullStory": "My name is Kareem, and I’m from Gaza City. Before the war, I worked as a software engineer in the tech market. I’ve lived here since birth with my large family, which includes my retired father (64 years old), my mother—a homemaker who underwent surgery to remove a tumor in 2021—four brothers, and five sisters. We all lived together under one roof.\n\nLife before the war was sometimes difficult, but it was stable. I worked daily, had a laptop, internet access, and the resources to earn a living. But since the war began, everything has changed. We live near the separation fence, and we’ve been forced to flee multiple times in search of safety. Our area was hit with intense bombing—I witnessed three barrel bombs fall, destroying 13 homes and killing several of our neighbors.\n\nMy family and I sustained injuries ranging from mild to moderate. I lost all my work tools—I no longer have a laptop or any source of income. My siblings have had their education disrupted; they can’t attend school or university. Living here has become a constant risk—every second feels like we might lose our lives. We’ve also endured periods of starvation and severe shortages of basic necessities. We've received some aid from UNRWA, but it’s not enough to secure a future for an entire family.\n\nRight now, we dream of something simple but vital: To leave Gaza for a safer place, where we can restore our dignity, secure our children’s education and future, continue my mother’s treatment, and obtain temporary housing, food, basic essentials, and a laptop so my siblings can resume their studies and I can return to work.\n\nOur goal isn’t permanent migration — it’s survival and rebuilding a dignified life, far from bombings and daily danger.\n\nHow donations will be used (full transparency):\n\n- Travel/visa fees and emergency transportation for the family\n- Rent for safe and suitable housing for 3–6 months as temporary shelter\n- Medical treatment and follow-up care for my mother, as well as other family healthcare needs\n- Basic necessities: food, clothing, children’s supplies, and school materials\n- A basic laptop and internet access so I can resume my work as a software developer to support the family\n\nAny amount you donate will be a lifeline of hope for us. We will provide regular updates on how the funds are being used, including photos/documents whenever possible, to ensure transparency for every donor and supporter.\n\nWe’re not asking for much—just a chance to survive and rebuild a simple life for a family that loves its land but seeks safety.\n\nYour donation means a child goes back to school, a mother receives her treatment, and our parents can live each moment without fear.\n\nThank you from the bottom of our hearts to everyone who reads, shares, and supports. Goodness still exists—because of people like you. We pray that God protects you and all the people of the world from war and destruction."
+  },
+  "donations": {
+    "title": "How Your Donation Helps",
+    "subtitle": "Every dollar makes a direct impact on our family's survival and future",
+    "uses": [
+      "Emergency food and clean water for the family",
+      "Medical care and essential medications",
+      "Temporary shelter and basic living supplies",
+      "Educational materials for the children",
+      "Transportation to safer areas when possible"
+    ],
+    "tiers": {
+      "title": "Donation Amounts",
+      "tier1": {
+        "amount": "$25",
+        "description": ""
+      },
+      "tier2": {
+        "amount": "$50",
+        "description": ""
+      },
+      "tier3": {
+        "amount": "$100",
+        "description": ""
+      },
+      "tier4": {
+        "amount": "$250",
+        "description": ""
+      },
+      "customAmount": "Custom Amount"
+    }
+  },
+  "progress": {
+    "title": "Campaign Progress",
+    "raised": "Raised",
+    "goal": "Goal",
+    "supporters": "Supporters"
+  },
+  "updates": {
+    "title": "Latest Updates",
+    "subtitle": "Stay informed about how your donations are making a difference"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": [
+      {
+        "question": "How do I know my donation will reach the family?",
+        "answer": "We provide regular updates with photos and receipts showing how donations are being used. All funds go directly to supporting the family's immediate needs."
+      },
+      {
+        "question": "Is my donation secure?",
+        "answer": "Yes, we use secure payment processors like PayPal to ensure your donation is processed safely and securely."
+      },
+      {
+        "question": "Can I donate anonymously?",
+        "answer": "Absolutely. You can choose to remain anonymous when making your donation."
+      },
+      {
+        "question": "How often will I receive updates?",
+        "answer": "We post updates weekly or whenever there are significant developments in the family's situation."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact & Support",
+    "email": "Email: kareemmarwan1995@gmail.com",
+    "social": "Follow our updates on social media",
+    "privacy": "Your privacy is important to us. We will never share your personal information."
+  },
+  "footer": {
+    "copyright": "© 2025 Gaza Family Emergency Fund. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "language": {
+    "switch": "العربية",
+    "current": "English"
+  }
+}
