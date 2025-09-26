@@ -7,9 +7,9 @@ import { Target, Users, DollarSign } from "lucide-react"
 
 // These would be updated dynamically in a real application
 const CAMPAIGN_DATA = {
-  raised: 0,
+  raised: 15,
   goal: 50000,
-  supporters: 0,
+  supporters: 1,
 }
 
 export function ProgressSection() {
